@@ -41,15 +41,16 @@ SCREENSHOTS OF IMPLEMENTATION-
 
 
 ->E-FEEDBACK PORTAL 
-(https://user-images.githubusercontent.com/21233020/37672912-f3dbe5d6-2c94-11e8-8d29-497a4232b90e.png)
-(https://user-images.githubusercontent.com/21233020/37673022-355b54b0-2c95-11e8-9d7d-e899facf1d7e.png)
-(https://user-images.githubusercontent.com/21233020/37673042-44f17bc0-2c95-11e8-8004-da06f98ed36c.png)
-(https://user-images.githubusercontent.com/21233020/37673095-628d3aca-2c95-11e8-94fe-639155316f65.png)
-(https://user-images.githubusercontent.com/21233020/37673152-86ad520a-2c95-11e8-962a-14d569dc3749.png)
-(https://user-images.githubusercontent.com/21233020/37673177-9414e700-2c95-11e8-9001-93931b770b15.png)
-(https://user-images.githubusercontent.com/21233020/37673204-a5b083e8-2c95-11e8-98ba-8adafb7c8f17.png)
-(https://user-images.githubusercontent.com/21233020/37673278-d0464e94-2c95-11e8-97aa-0576950dd47d.png)
-(https://user-images.githubusercontent.com/21233020/37673292-da7a0f04-2c95-11e8-9c48-e6fb15295d85.png)
+(![1](https://user-images.githubusercontent.com/21233020/103878123-00c7b200-50fc-11eb-8092-2667bac7e061.PNG))
+(![2](https://user-images.githubusercontent.com/21233020/103878127-02917580-50fc-11eb-977c-5481e181f5ae.PNG))
+(![3](https://user-images.githubusercontent.com/21233020/103878141-0624fc80-50fc-11eb-85b9-1ab28d0e4cd4.PNG))
+(![4](https://user-images.githubusercontent.com/21233020/103878150-09b88380-50fc-11eb-922a-58a129436f59.PNG))
+(![5](https://user-images.githubusercontent.com/21233020/103878155-0d4c0a80-50fc-11eb-9163-d3552b9d8747.PNG))
+(![6](https://user-images.githubusercontent.com/21233020/103878163-0f15ce00-50fc-11eb-843a-61e7f0a99e28.PNG))
+(![7](https://user-images.githubusercontent.com/21233020/103878173-10df9180-50fc-11eb-90b5-d133277b8c75.PNG))
+(![8](https://user-images.githubusercontent.com/21233020/103878177-1210be80-50fc-11eb-8e65-0369d4d8851f.PNG))
+(![9](https://user-images.githubusercontent.com/21233020/103878183-14731880-50fc-11eb-8f28-504e25b9822d.PNG))
+
 (SIMILAR PROCEDURE FOR SELECTING BHAMASHAH CARD)
 
 
