@@ -34,7 +34,8 @@ TECHNOLOGY STACK USED-
 SCREENSHOTS OF IMPLEMENTATION-
 ->DATABASE
 **Ration Card**
-(https://user-images.githubusercontent.com/21233020/37673403-202b4414-2c96-11e8-8fe7-66d9cea98e0e.png)
+![Capture](https://user-images.githubusercontent.com/21233020/103877365-f6f17f00-50fa-11eb-9091-e1c4a3863a0c.PNG)
+
 **Bhamashah Card**
 (https://user-images.githubusercontent.com/21233020/37673427-2e91c2b2-2c96-11e8-9f22-2b5ab5c4b4e7.png)
 
