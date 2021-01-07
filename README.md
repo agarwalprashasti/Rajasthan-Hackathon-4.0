@@ -37,7 +37,8 @@ SCREENSHOTS OF IMPLEMENTATION-
 ![Capture](https://user-images.githubusercontent.com/21233020/103877365-f6f17f00-50fa-11eb-9091-e1c4a3863a0c.PNG)
 
 **Bhamashah Card**
-(https://user-images.githubusercontent.com/21233020/37673427-2e91c2b2-2c96-11e8-9f22-2b5ab5c4b4e7.png)
+![Capture1](https://user-images.githubusercontent.com/21233020/103877594-4f288100-50fb-11eb-8c04-968b2f987076.PNG)
+
 
 ->E-FEEDBACK PORTAL 
 (https://user-images.githubusercontent.com/21233020/37672912-f3dbe5d6-2c94-11e8-8d29-497a4232b90e.png)
